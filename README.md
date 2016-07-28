@@ -4,6 +4,9 @@ The objective of this project is to identify high risk buildings in New York Cit
 
 The project had two steps:
 1. Anlaysis of text data using topic modelling and identifying key works that indicate high risk
-2. Creating a spatial dashboard using Tableau
+2. Creating a spatial dashboard using Tableau.
+
+
+
 
 

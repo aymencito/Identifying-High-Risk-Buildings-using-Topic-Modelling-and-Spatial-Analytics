@@ -1,10 +1,12 @@
 # Utility Analytics: Natural Language Processing and Spatial Dashboard
 
-The objective of this project is to identify high risk buildings in New York City. A building is determined "high" risk if there is a a higher probability of harm to New York City residents,  due to poor workmanship or illegal activity. Structural topic modelling package in R was used for natural language processing analysis and geocoding,  python was used to clean and code the data, Tableau was used to visualize data.
+The objective of this project is to identify high risk buildings in New York City. A building is determined "high" risk if there is a high likelihood of harm to New York City residents,  due to poor workmanship or illegal activity. 
 
 The project had two steps:
 1. Anlaysis of text data using topic modelling and identifying key works that indicate high risk.
 2. Creating a spatial dashboard using Tableau.
+
+Structural topic modelling package in R was used for natural language processing analysis and geocoding,  python was used to clean and code the data, Tableau was used to visualize data.
 
 #Topic Modelling Results
 

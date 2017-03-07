@@ -2,9 +2,15 @@
 
 The objective of this project is to identify gas-related high risk buildings in New York City. A building is determined "high" risk if there is a high likelihood of harm to New York City residents,  due to poor workmanship or illegal activity. 
 
-The project had two steps:
+The project had four steps:
+
 1. Anlaysis of text data using topic modelling and identifying key works that indicate high risk.
-2. Creating a spatial dashboard using Tableau.
+
+2. Creating a risk scale for each building.
+
+3. Creating list a high rik list of buildings to be inpsected.
+
+4. Creating a spatial dashboard using Tableau.
 
 Structural topic modelling package in R was used for natural language processing analysis and geocoding,  python was used to clean and code the data, Tableau was used to visualize data.
 

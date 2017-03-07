@@ -8,7 +8,7 @@ The project had four steps:
 
 2. Creating a risk scale for each building.
 
-3. Creating list a high rik list of buildings to be inpsected.
+3. Creating list a high rik list of buildings to be inspected.
 
 4. Creating a spatial dashboard using Tableau.
 

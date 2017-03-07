@@ -1,4 +1,3 @@
-# Utility Analytics: Natural Language Processing and Spatial Dashboard
 
 The objective of this project is to identify gas-related high risk buildings in New York City. A building is determined "high" risk if there is a high likelihood of harm to New York City residents,  due to poor workmanship or illegal activity. 
 

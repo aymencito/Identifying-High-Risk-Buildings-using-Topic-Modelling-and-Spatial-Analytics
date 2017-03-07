@@ -4,7 +4,7 @@ The objective of this project is to identify gas-related high risk buildings in 
 
 The project had four steps:
 
-1. Anlaysis of text data using topic modelling and identifying key works that indicate high risk.
+1. Analysis of text data using topic modelling and identifying key works that indicate high risk.
 
 2. Creating a risk scale for each building.
 

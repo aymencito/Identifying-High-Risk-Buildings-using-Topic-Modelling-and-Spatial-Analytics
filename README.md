@@ -14,7 +14,7 @@ The project had four steps:
 
 Structural topic modelling package in R was used for natural language processing analysis and geocoding,  python was used to clean and code the data, Tableau was used to visualize data.
 
-## Topic Modelling Results
+## Results
 
 Text data from Con Edison visits were analyzed, topic modelling automatically generates topics from the text. The topics can be broadly categorized as incidents related to boilers, customer complaints of service shut off, gas leaks, gas meter issues, illegal activity and service shut off, failure of integrity tests and unsafe piping.
 

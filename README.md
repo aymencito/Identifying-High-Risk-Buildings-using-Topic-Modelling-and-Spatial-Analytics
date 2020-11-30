@@ -18,6 +18,9 @@ Structural topic modelling package in R was used for natural language processing
 
 Text data from Con Edison visits were analyzed, topic modelling automatically generates topics from the text. The topics can be broadly categorized as incidents related to boilers, customer complaints of service shut off, gas leaks, gas meter issues, illegal activity and service shut off, failure of integrity tests and unsafe piping.
 
+## Report
+https://www1.nyc.gov/assets/buildings/pdf/gas_utility_analytics_November2020.pdf
+
 
 #Spatial Dashboard
 The dashboard included a map of incidents (high risk red, low risk yellow), 3D satallite image of building and menus to filter the data. A user can click on an incident of interest on the map and an automatic satellite image of the building is produced. Notes of the incident are also shown when a user hovers the mouse over the incident. Below is an image of the dashboard:

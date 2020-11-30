@@ -22,7 +22,7 @@ Text data from Con Edison visits were analyzed, topic modelling automatically ge
 https://www1.nyc.gov/assets/buildings/pdf/gas_utility_analytics_November2020.pdf
 
 
-#Spatial Dashboard
+## Spatial Dashboard
 The dashboard included a map of incidents (high risk red, low risk yellow), 3D satallite image of building and menus to filter the data. A user can click on an incident of interest on the map and an automatic satellite image of the building is produced. Notes of the incident are also shown when a user hovers the mouse over the incident. Below is an image of the dashboard:
 
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17219083/068dba4e-54b8-11e6-9193-9e38f8814f8d.png)
